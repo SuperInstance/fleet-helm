@@ -1,1 +1,1 @@
-target/
+/target\nCargo.lock
