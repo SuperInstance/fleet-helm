@@ -1,0 +1,11 @@
+[package]
+name = "fleet-helm"
+version = "0.1.0"
+edition = "2021"
+description = "Fleet coordination and steering — bearings, formations, collision avoidance"
+license = "MIT"
+keywords = ["fleet", "coordination", "navigation", "formation", "agents"]
+categories = ["algorithms", "data-structures"]
+repository = "https://github.com/SuperInstance/fleet-helm"
+
+[dependencies]
